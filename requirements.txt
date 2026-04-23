@@ -1,0 +1,5 @@
+PySide6>=6.11.0
+pynput>=1.8.1
+mss>=10.1.0
+Pillow>=12.2.0
+rapidocr-onnxruntime>=1.4.4
